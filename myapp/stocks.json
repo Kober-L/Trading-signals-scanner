@@ -1,0 +1,95 @@
+[
+    {
+        "id": "BABASUPP_RES",
+        "actual_price": 168.3300018310547,
+        "date": "26-08-2021",
+        "tycker": "BABA",
+        "range_price": [
+            160.5,
+            176.5
+        ],
+        "exp_value": 168.5,
+        "ranges": {
+            "1w_1": 128,
+            "1w_2": 151.5,
+            "1w_3": 168.5,
+            "1w_4": 211
+        },
+        "sigName": "SUPP_RES",
+        "timeframe": "1w"
+    },
+    {
+        "id": "TSLASUPP_RES",
+        "actual_price": 744.297119140625,
+        "date": "08-09-2021",
+        "tycker": "TSLA",
+        "range_price": [
+            727.91,
+            787.91
+        ],
+        "exp_value": 757.91,
+        "ranges": {
+            "1w_1": 544.5,
+            "1w_2": 876.26,
+            "1w_3": 757.91
+        },
+        "sigName": "SUPP_RES",
+        "timeframe": "1w"
+    },
+    {
+        "id": "AMZNSUPP_RES",
+        "actual_price": 3517.014892578125,
+        "date": "08-09-2021",
+        "tycker": "AMZN",
+        "range_price": [
+            3479.56,
+            3559.56
+        ],
+        "exp_value": 3519.56,
+        "ranges": {
+            "1w_1": 2887.67,
+            "1w_2": 3085.53,
+            "1w_3": 3749.63,
+            "1w_4": 3519.56
+        },
+        "sigName": "SUPP_RES",
+        "timeframe": "1w"
+    },
+    {
+        "id": "BBIGSUPP_RES",
+        "actual_price": 10.895500183105469,
+        "date": "08-09-2021",
+        "tycker": "BBIG",
+        "range_price": [
+            10.42,
+            12.819999999999999
+        ],
+        "exp_value": 11.62,
+        "ranges": {
+            "1w_1": 1.39,
+            "1w_2": 5.1,
+            "1w_3": 11.62
+        },
+        "sigName": "SUPP_RES",
+        "timeframe": "1w"
+    },
+    {
+        "id": "NIOSUPP_RES",
+        "actual_price": 38.19179916381836,
+        "date": "08-09-2021",
+        "tycker": "NIO",
+        "range_price": [
+            35.209999999999994,
+            39.61
+        ],
+        "exp_value": 37.41,
+        "ranges": {
+            "1w_1": 34.6,
+            "1w_2": 37.41,
+            "1w_3": 64.85,
+            "1w_4": 55
+        },
+        "sigName": "SUPP_RES",
+        "timeframe": "1w"
+    }
+]

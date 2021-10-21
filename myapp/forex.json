@@ -1,0 +1,79 @@
+[
+    {
+        "id": "GBPUSDSUPP_RES",
+        "actual_price": 1.3737584352493286,
+        "date": "26-08-2021",
+        "tycker": "GBPUSD",
+        "range_price": [
+            1.35943,
+            1.38243
+        ],
+        "exp_value": 1.37093,
+        "ranges": {
+            "1w_1": 1.37093,
+            "1w_2": 1.3361,
+            "1w_3": 1.30802,
+            "1w_4": 1.4215
+        },
+        "sigName": "SUPP_RES",
+        "timeframe": "1w"
+    },
+    {
+        "id": "AUDUSDSUPP_RES",
+        "actual_price": 0.7253946661949158,
+        "date": "26-08-2021",
+        "tycker": "AUDUSD",
+        "range_price": [
+            0.7232000000000001,
+            0.7462
+        ],
+        "exp_value": 0.7347,
+        "ranges": {
+            "1w_1": 0.7347,
+            "1w_2": 0.717,
+            "1w_3": 0.7027,
+            "1w_4": 0.749
+        },
+        "sigName": "SUPP_RES",
+        "timeframe": "1w"
+    },
+    {
+        "id": "EURUSDSUPP_RES",
+        "actual_price": 1.1845533847808838,
+        "date": "07-09-2021",
+        "tycker": "EURUSD",
+        "range_price": [
+            1.1801899999999999,
+            1.20319
+        ],
+        "exp_value": 1.19169,
+        "ranges": {
+            "1w_1": 1.19169,
+            "1w_2": 1.1699,
+            "1w_3": 1.16021,
+            "1w_4": 1.13721,
+            "1w_5": 1.22649
+        },
+        "sigName": "SUPP_RES",
+        "timeframe": "1w"
+    },
+    {
+        "id": "USDCHFSUPP_RES",
+        "actual_price": 0.9221900105476379,
+        "date": "08-09-2021",
+        "tycker": "USDCHF",
+        "range_price": [
+            0.9166200000000001,
+            0.92362
+        ],
+        "exp_value": 0.92012,
+        "ranges": {
+            "1w_1": 0.956,
+            "1w_2": 0.94365,
+            "1w_3": 0.92012,
+            "1w_4": 0.90172
+        },
+        "sigName": "SUPP_RES",
+        "timeframe": "1w"
+    }
+]
